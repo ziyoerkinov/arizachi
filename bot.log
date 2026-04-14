@@ -1,0 +1,66 @@
+2026-04-14 09:55:20,270 [INFO] ==================================================
+2026-04-14 09:55:20,274 [INFO] Uch Oyoq Bot ishga tushdi!
+2026-04-14 09:55:20,274 [INFO] ==================================================
+2026-04-14 09:55:20,720 [INFO] Start polling
+2026-04-14 09:55:20,848 [INFO] Run polling for bot @yurist_arizachibot id=8720386556 - 'Ariza yozuvchi bot'
+2026-04-14 10:01:03,828 [INFO] Update id=394144277 is handled. Duration 436 ms by bot id=8720386556
+2026-04-14 10:01:10,529 [INFO] Update id=394144278 is handled. Duration 608 ms by bot id=8720386556
+2026-04-14 10:01:13,888 [INFO] Update id=394144279 is handled. Duration 1000 ms by bot id=8720386556
+2026-04-14 10:01:16,830 [INFO] Update id=394144280 is handled. Duration 452 ms by bot id=8720386556
+2026-04-14 10:01:58,477 [INFO] Fayl yuklandi: downloads\20260414_100157_Jarima qarori.pdf
+2026-04-14 10:01:59,526 [INFO] AFC is enabled with max remote calls: 10.
+2026-04-14 10:01:59,926 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-04-14 10:02:00,419 [INFO] Tozalandi: downloads\20260414_100157_Jarima qarori.pdf
+2026-04-14 10:02:00,419 [INFO] Update id=394144281 is handled. Duration 3468 ms by bot id=8720386556
+2026-04-14 10:03:35,709 [INFO] ==================================================
+2026-04-14 10:03:35,709 [INFO] Uch Oyoq Bot ishga tushdi!
+2026-04-14 10:03:35,709 [INFO] ==================================================
+2026-04-14 10:03:36,087 [INFO] Start polling
+2026-04-14 10:03:36,189 [INFO] Run polling for bot @yurist_arizachibot id=8720386556 - 'Ariza yozuvchi bot'
+2026-04-14 10:04:30,756 [INFO] Update id=394144282 is handled. Duration 1015 ms by bot id=8720386556
+2026-04-14 10:04:33,222 [INFO] Update id=394144283 is handled. Duration 672 ms by bot id=8720386556
+2026-04-14 10:04:35,223 [INFO] Update id=394144284 is handled. Duration 827 ms by bot id=8720386556
+2026-04-14 10:04:41,257 [INFO] Update id=394144285 is handled. Duration 578 ms by bot id=8720386556
+2026-04-14 10:04:56,776 [INFO] Fayl yuklandi: downloads\20260414_100455_Jarima qarori.pdf
+2026-04-14 10:04:57,836 [INFO] AFC is enabled with max remote calls: 10.
+2026-04-14 10:04:58,340 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-04-14 10:05:01,036 [INFO] Ariza yaratildi: output\Ariza_RA25047768046.pdf | User: 1381783389
+2026-04-14 10:05:01,038 [INFO] Tozalandi: downloads\20260414_100455_Jarima qarori.pdf
+2026-04-14 10:05:01,038 [INFO] Update id=394144286 is handled. Duration 6077 ms by bot id=8720386556
+2026-04-14 22:37:31,404 [INFO] ==================================================
+2026-04-14 22:37:31,413 [INFO] Uch Oyoq Bot ishga tushdi!
+2026-04-14 22:37:31,413 [INFO] ==================================================
+2026-04-14 22:37:33,124 [INFO] Start polling
+2026-04-14 22:37:33,304 [INFO] Run polling for bot @yurist_arizachibot id=8720386556 - 'Ariza yozuvchi bot'
+2026-04-14 22:39:38,205 [INFO] Update id=394144288 is handled. Duration 922 ms by bot id=8720386556
+2026-04-14 22:39:40,789 [INFO] Update id=394144289 is handled. Duration 671 ms by bot id=8720386556
+2026-04-14 22:39:43,032 [INFO] Update id=394144290 is handled. Duration 1045 ms by bot id=8720386556
+2026-04-14 22:39:46,899 [INFO] Update id=394144291 is handled. Duration 686 ms by bot id=8720386556
+2026-04-14 22:39:57,690 [INFO] Fayl yuklandi: downloads\20260414_223955_Jarima qarori.pdf
+2026-04-14 22:39:59,927 [INFO] AFC is enabled with max remote calls: 10.
+2026-04-14 22:40:00,503 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-04-14 22:40:07,950 [INFO] Ariza yaratildi: output\Ariza_RA25047768046.pdf | User: 1381783389
+2026-04-14 22:40:07,952 [INFO] Tozalandi: downloads\20260414_223955_Jarima qarori.pdf
+2026-04-14 22:40:07,952 [INFO] Update id=394144292 is handled. Duration 12452 ms by bot id=8720386556
+2026-04-14 22:41:13,428 [INFO] Update id=394144293 is handled. Duration 343 ms by bot id=8720386556
+2026-04-14 22:41:15,889 [INFO] Update id=394144294 is handled. Duration 641 ms by bot id=8720386556
+2026-04-14 22:41:18,367 [INFO] Update id=394144295 is handled. Duration 1062 ms by bot id=8720386556
+2026-04-14 22:41:22,261 [INFO] Update id=394144296 is handled. Duration 672 ms by bot id=8720386556
+2026-04-14 22:41:37,498 [INFO] Update id=394144297 is handled. Duration 312 ms by bot id=8720386556
+2026-04-14 22:41:48,289 [INFO] Fayl yuklandi: downloads\20260414_224146_Jarima qarori.pdf
+2026-04-14 22:41:49,768 [INFO] AFC is enabled with max remote calls: 10.
+2026-04-14 22:41:50,253 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-04-14 22:42:00,303 [INFO] Ariza yaratildi: output\Ariza_RA25047768046.pdf | User: 1381783389
+2026-04-14 22:42:00,306 [INFO] Tozalandi: downloads\20260414_224146_Jarima qarori.pdf
+2026-04-14 22:42:00,306 [INFO] Update id=394144298 is handled. Duration 14250 ms by bot id=8720386556
+2026-04-14 22:42:29,747 [INFO] Update id=394144299 is handled. Duration 312 ms by bot id=8720386556
+2026-04-14 22:42:34,543 [INFO] Update id=394144300 is handled. Duration 327 ms by bot id=8720386556
+2026-04-14 22:42:36,603 [INFO] Update id=394144301 is handled. Duration 657 ms by bot id=8720386556
+2026-04-14 22:42:39,252 [INFO] Update id=394144302 is handled. Duration 1375 ms by bot id=8720386556
+2026-04-14 22:42:42,998 [INFO] Update id=394144303 is handled. Duration 703 ms by bot id=8720386556
+2026-04-14 22:42:53,367 [INFO] Fayl yuklandi: downloads\20260414_224251_8123ffee7db44b28b71f15cdb4ac8d38.pdf
+2026-04-14 22:42:55,403 [INFO] AFC is enabled with max remote calls: 10.
+2026-04-14 22:42:55,777 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-04-14 22:43:01,241 [INFO] Ariza yaratildi: output\Ariza_SB26010657887.pdf | User: 1381783389
+2026-04-14 22:43:01,242 [INFO] Tozalandi: downloads\20260414_224251_8123ffee7db44b28b71f15cdb4ac8d38.pdf
+2026-04-14 22:43:01,242 [INFO] Update id=394144304 is handled. Duration 10453 ms by bot id=8720386556
